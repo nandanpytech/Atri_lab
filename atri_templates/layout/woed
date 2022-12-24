@@ -1,0 +1,87 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "e90eca0a-6f31-4811-84d0-a937bae13722",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "798ddef3-9823-4bdb-9336-d9dac25f771a",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "fontFamily": "IBM Plex Sans",
+          "fontWeight": 700,
+          "fontSize": "3rem"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "e90eca0a-6f31-4811-84d0-a937bae13722",
+    "refId": "ecf4330b-14bf-4f45-8d7a-faa4b8f04962"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "5e227668-83e1-4cb1-bc59-ca0200ddd3b1",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "798ddef3-9823-4bdb-9336-d9dac25f771a",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Word on the street"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "5e227668-83e1-4cb1-bc59-ca0200ddd3b1",
+    "refId": "ecf4330b-14bf-4f45-8d7a-faa4b8f04962"
+  },
+  {
+    "id": "8c8d0ebc-492f-4cf0-ae13-d6029cc32d2e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "798ddef3-9823-4bdb-9336-d9dac25f771a",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "ecf4330b-14bf-4f45-8d7a-faa4b8f04962",
+    "childId": "8c8d0ebc-492f-4cf0-ae13-d6029cc32d2e"
+  },
+  {
+    "id": "ecf4330b-14bf-4f45-8d7a-faa4b8f04962",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "TextBox166"
+    }
+  }
+]

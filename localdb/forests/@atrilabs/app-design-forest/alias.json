@@ -1,0 +1,17 @@
+{
+  "Button": 12,
+  "Accordion": 4,
+  "Flex": 382,
+  "Checkbox": 2,
+  "Div": 10,
+  "Input": 1,
+  "Countdown": 1,
+  "TextBox": 228,
+  "Image": 96,
+  "Carousel": 3,
+  "Breadcrumb": 1,
+  "UnorderedList": 29,
+  "Icon": 1,
+  "Dropdown": 2,
+  "Testimonial": 3
+}

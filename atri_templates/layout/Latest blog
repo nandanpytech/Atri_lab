@@ -1,0 +1,87 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "5b6982f6-9d5f-44ec-9753-813ce2987497",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "fontFamily": "IBM Plex Sans",
+          "fontWeight": 600,
+          "fontSize": "3rem"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "5b6982f6-9d5f-44ec-9753-813ce2987497",
+    "refId": "de9e0cc4-4d8f-497c-8840-966ae02640e5"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "74f8f921-0c13-4298-ac8b-f9a89028b3ea",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "I bring results.  "
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "74f8f921-0c13-4298-ac8b-f9a89028b3ea",
+    "refId": "de9e0cc4-4d8f-497c-8840-966ae02640e5"
+  },
+  {
+    "id": "471b7acf-090a-4c4d-b3c1-89ba1a79be52",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "de9e0cc4-4d8f-497c-8840-966ae02640e5",
+    "childId": "471b7acf-090a-4c4d-b3c1-89ba1a79be52"
+  },
+  {
+    "id": "de9e0cc4-4d8f-497c-8840-966ae02640e5",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "TextBox46"
+    }
+  }
+]
