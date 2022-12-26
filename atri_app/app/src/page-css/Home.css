@@ -1,8 +1,6 @@
 .p-Home.Navbarflex {
 display: flex;
 justify-content: space-between;
-width: ;
-height: ;
 font-family: Poppins;
 margin-left: 50px;
 margin-right: 50px;
@@ -19,10 +17,8 @@ height: 50px;
 display: flex;
 height: 50px;
 width: 400px;
-row-gap: ;
 column-gap: 20px;
 align-items: center;
-font-size: ;
 font-family: IBM Plex Sans;
 font-weight: 600;
 }
@@ -34,11 +30,7 @@ width: 1000px;
 display: flex;
 margin-left: 50px;
 margin-right: 50px;
-padding-top: ;
-padding-bottom: ;
 justify-content: space-between;
-height: ;
-margin-bottom: ;
 }
 .p-Home.Flex7 {
 display: flex;
@@ -50,25 +42,21 @@ padding-top: 20px;
 .p-Home.Flex9 {
 display: flex;
 width: 100%;
-height: ;
 flex-direction: column;
 padding-bottom: 20px;
 }
 .p-Home.Flex10 {
 display: flex;
-height: ;
 }
 .p-Home.Flex11 {
 display: flex;
 justify-content: flex-start;
-width: %;
 height: 0%;
 }
 .p-Home.Flex430 {
 display: flex;
 width: 20%;
 position: relative;
-height: ;
 }
 .p-Home.Flex433 {
 display: flex;
@@ -93,14 +81,8 @@ margin-top: 50px;
 .p-Home.Flex32 {
 display: flex;
 justify-content: space-between;
-margin-left: ;
-margin-right: ;
-height: ;
-row-gap: ;
 column-gap: 5%;
 width: 100%;
-padding-left: ;
-padding-right: ;
 }
 .p-Home.Flex36 {
 display: flex;
@@ -114,7 +96,6 @@ display: flex;
 flex-direction: column;
 margin-left: 50px;
 margin-right: 50px;
-margin-top: ;
 padding-top: 32px;
 padding-bottom: 32px;
 }
@@ -158,7 +139,6 @@ font-family: IBM Plex Sans;
 .p-Home.Flex47 {
 display: flex;
 flex-direction: column;
-width: ;
 }
 .p-Home.Flex48 {
 display: flex;
@@ -185,7 +165,6 @@ padding-top: 20px;
 .p-Home.Flex73 {
 display: flex;
 flex-direction: column;
-width: %;
 }
 .p-Home.Flex79 {
 display: flex;
@@ -207,7 +186,6 @@ padding-top: 20px;
 .p-Home.Flex77 {
 display: flex;
 flex-direction: column;
-width: ;
 }
 .p-Home.Flex80 {
 display: flex;
@@ -244,11 +222,8 @@ display: flex;
 border-color: #000000;
 background-color: #070606;
 margin-top: 160px;
-margin-left: ;
-margin-right: ;
 flex-direction: column;
 padding-bottom: 30px;
-padding-top: ;
 }
 .p-Home.Flex87 {
 display: flex;
@@ -273,7 +248,6 @@ display: flex;
 .p-Home.Flex91 {
 display: flex;
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: 1.3rem;
 margin-top: 5px;
 }
@@ -283,7 +257,6 @@ display: flex;
 .p-Home.Flex89 {
 display: flex;
 width: 50%;
-height: ;
 flex-direction: column;
 }
 .p-Home.Flex93 {
@@ -291,7 +264,6 @@ display: flex;
 width: 100%;
 flex-direction: column;
 margin-top: 10px;
-border-radius: ;
 border-bottom-width: .5px;
 border-bottom-style: solid;
 border-bottom-color: #f3efef80;
@@ -314,7 +286,6 @@ display: flex;
 width: 100%;
 flex-direction: column;
 margin-top: 10px;
-border-radius: ;
 border-bottom-width: .5px;
 border-bottom-style: solid;
 border-bottom-color: #f3efef80;
@@ -337,7 +308,6 @@ display: flex;
 width: 100%;
 flex-direction: column;
 margin-top: 10px;
-border-radius: ;
 border-bottom-width: .5px;
 border-bottom-style: solid;
 border-bottom-color: #f3efef80;
@@ -360,7 +330,6 @@ display: flex;
 width: 100%;
 flex-direction: column;
 margin-top: 10px;
-border-radius: ;
 border-bottom-width: .5px;
 border-bottom-style: solid;
 border-bottom-color: #f3efef80;
@@ -383,7 +352,6 @@ display: flex;
 width: 100%;
 flex-direction: column;
 margin-top: 10px;
-border-radius: ;
 border-bottom-width: 100px;
 border-bottom-style: solid;
 border-bottom-color: #7f1e1eff;
@@ -428,7 +396,6 @@ margin-top: 100px;
 justify-content: space-between;
 margin-left: 50px;
 margin-right: 50px;
-column-gap: ;
 }
 .p-Home.Flex164 {
 display: flex;
@@ -449,7 +416,6 @@ margin-top: 50px;
 .p-Home.Flex168 {
 display: flex;
 width: 30%;
-height: ;
 }
 .p-Home.Flex169 {
 display: flex;
@@ -494,7 +460,6 @@ border-bottom-color: #666f;
 .p-Home.Flex178 {
 display: flex;
 flex-direction: column;
-width: ;
 }
 .p-Home.Flex179 {
 display: flex;
@@ -528,7 +493,6 @@ display: flex;
 .p-Home.Flex213 {
 display: flex;
 flex-direction: column;
-width: ;
 }
 .p-Home.Flex218 {
 display: flex;
@@ -551,7 +515,6 @@ display: flex;
 .p-Home.Flex217 {
 display: flex;
 flex-direction: column;
-width: ;
 }
 .p-Home.Flex256 {
 display: flex;
@@ -575,7 +538,6 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 padding-bottom: 30px;
-border-bottom-width: ;
 border-bottom-color: #666666ff;
 border-bottom-style: none;
 width: 100%;
@@ -615,7 +577,6 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 padding-bottom: 30px;
-border-bottom-width: ;
 border-bottom-color: #666666ff;
 border-bottom-style: none;
 width: 100%;
@@ -643,7 +604,6 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 padding-bottom: 30px;
-border-bottom-width: ;
 border-bottom-color: #666666ff;
 border-bottom-style: none;
 width: 100%;
@@ -660,7 +620,6 @@ margin-bottom: 50px;
 }
 .p-Home.Flex273 {
 display: flex;
-width: ;
 flex-direction: column;
 }
 .p-Home.Flex274 {
@@ -716,8 +675,6 @@ padding-bottom: 5px;
 .p-Home.Flex285 {
 display: flex;
 flex-direction: column;
-margin-left: ;
-margin-right: ;
 background-color: #0b0b0b;
 }
 .p-Home.Flex286 {
@@ -734,7 +691,6 @@ column-gap: 5%;
 margin-bottom: 50px;
 font-family: IBM Plex Sans;
 font-weight: 500;
-font-size: ;
 }
 .p-Home.Flex292 {
 display: flex;
@@ -745,7 +701,6 @@ flex-direction: column;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -763,7 +718,6 @@ width: 10%;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -778,7 +732,6 @@ width: 10%;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -793,7 +746,6 @@ width: 10%;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -813,7 +765,6 @@ flex-direction: column;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -828,7 +779,6 @@ width: 10%;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -843,7 +793,6 @@ width: 10%;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -858,7 +807,6 @@ width: 10%;
 display: flex;
 width: 100%;
 justify-content: space-between;
-margin-bottom: ;
 padding-bottom: 30px;
 border-bottom-width: .5px;
 border-bottom-color: #666f;
@@ -929,14 +877,12 @@ flex-direction: column;
 .p-Home.Flex391 {
 display: flex;
 position: absolute;
-margin-left: ;
+
 width: 100%;
-margin-right: ;
+
 justify-content: space-between;
 overflow: hidden;
 column-gap: 5%;
-margin-bottom: ;
-background-position-y: ;
 top: 1950px;
 flex-wrap: nowrap;
 box-sizing: border-box;
@@ -952,8 +898,6 @@ height: 90%;
 display: flex;
 flex-direction: column;
 background-color: #ffffff;
-row-gap: ;
-column-gap: ;
 clear: none;
 }
 .p-Home.Flex434 {
@@ -969,8 +913,6 @@ height: 90%;
 display: flex;
 flex-direction: column;
 background-color: #ffffff;
-row-gap: ;
-column-gap: ;
 clear: none;
 }
 .p-Home.Flex435 {
@@ -986,8 +928,6 @@ height: 90%;
 display: flex;
 flex-direction: column;
 background-color: #ffffff;
-row-gap: ;
-column-gap: ;
 clear: none;
 }
 .p-Home.Flex438 {
@@ -1013,21 +953,6 @@ user-select: none;
 }
 .p-Home.Image1 {
 width: 200px;
-}
-.p-Home.TextBox4 {
-;
-}
-.p-Home.TextBox5 {
-;
-}
-.p-Home.TextBox6 {
-;
-}
-.p-Home.TextBox7 {
-;
-}
-.p-Home.TextBox8 {
-;
 }
 .p-Home.Image115 {
 width: 12%;
@@ -1062,7 +987,6 @@ color: #ffffff;
 padding-left: 10px;
 padding-top: 5px;
 padding-right: 10px;
-padding-bottom: ;
 }
 .p-Home.Flex431 {
 display: flex;
@@ -1077,18 +1001,11 @@ background-clip: border-box;
 -webkit-background-clip: border-box;
 background-origin: content-box;
 background-attachment: scroll;
-padding-left: ;
-padding-top: ;
-padding-right: ;
-padding-bottom: ;
 box-sizing: border-box;
 }
 .p-Home.TextBox26 {
 align-self: center;
 font-size: 1.2rem;
-margin-right: ;
-margin-left: ;
-margin-bottom: ;
 margin-top: 10px;
 font-family: IBM Plex Sans;
 font-weight: 600;
@@ -1102,12 +1019,10 @@ margin-top: 10px;
 }
 .p-Home.Image5 {
 width: 100%;
-height: ;
 align-self: flex-start;
 }
 .p-Home.Image16 {
 width: 17%;
-height: ;
 }
 .p-Home.Image17 {
 width: 17%;
@@ -1119,7 +1034,6 @@ height: 100%;
 }
 .p-Home.Image21 {
 width: 17%;
-height: ;
 }
 .p-Home.TextBox29 {
 text-align: center;
@@ -1150,12 +1064,10 @@ height: 40%;
 .p-Home.UnorderedList20 {
 margin-left: 13px;
 font-size: 1.1rem;
-padding-top: ;
 }
 .p-Home.UnorderedList21 {
 margin-left: 13px;
 font-size: 1.2rem;
-padding-top: ;
 align-items: stretch;
 }
 .p-Home.TextBox33 {
@@ -1175,7 +1087,6 @@ color: #666f;
 .p-Home.UnorderedList19 {
 margin-left: 13px;
 font-size: 1.1rem;
-padding-top: ;
 }
 .p-Home.Image26 {
 width: 25%;
@@ -1184,18 +1095,15 @@ height: 40%;
 .p-Home.UnorderedList23 {
 margin-left: 13px;
 font-size: 1.2rem;
-padding-top: ;
 align-items: stretch;
 }
 .p-Home.UnorderedList24 {
 margin-left: 13px;
 font-size: 1.1rem;
-padding-top: ;
 }
 .p-Home.UnorderedList22 {
 margin-left: 13px;
 font-size: 1.1rem;
-padding-top: ;
 }
 .p-Home.TextBox41 {
 padding-top: 10px;
@@ -1217,18 +1125,15 @@ height: 40%;
 .p-Home.UnorderedList26 {
 margin-left: 13px;
 font-size: 1.2rem;
-padding-top: ;
 align-items: stretch;
 }
 .p-Home.UnorderedList27 {
 margin-left: 13px;
 font-size: 1.1rem;
-padding-top: ;
 }
 .p-Home.UnorderedList25 {
 margin-left: 13px;
 font-size: 1.1rem;
-padding-top: ;
 }
 .p-Home.TextBox43 {
 padding-top: 10px;
@@ -1265,11 +1170,6 @@ font-weight: 600;
 font-size: 1.1rem;
 align-self: center;
 box-shadow: #ffff;
-height: ;
-padding-left: ;
-padding-right: ;
-padding-top: ;
-padding-bottom: ;
 width: 100%;
 text-align: center;
 margin-top: 10px;
@@ -1407,9 +1307,6 @@ font-weight: 100;
 font-size: .9rem;
 word-wrap: normal;
 }
-.p-Home.UnorderedList30 {
-;
-}
 .p-Home.TextBox278 {
 font-family: IBM Plex Sans;
 align-self: center;
@@ -1470,7 +1367,6 @@ margin-bottom: 5px;
 }
 .p-Home.TextBox99 {
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: .9rem;
 color: #666f;
 }
@@ -1483,7 +1379,6 @@ color: #666f;
 }
 .p-Home.TextBox125 {
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: .9rem;
 color: #666f;
 }
@@ -1502,7 +1397,6 @@ margin-bottom: 5px;
 }
 .p-Home.TextBox128 {
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: .9rem;
 color: #666f;
 }
@@ -1527,7 +1421,6 @@ margin-bottom: 10px;
 }
 .p-Home.TextBox154 {
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: .9rem;
 color: #666f;
 }
@@ -1562,7 +1455,6 @@ margin-bottom: 10px;
 }
 .p-Home.TextBox158 {
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: .9rem;
 color: #666f;
 }
@@ -1585,7 +1477,6 @@ margin-bottom: 10px;
 }
 .p-Home.TextBox161 {
 font-family: IBM Plex Sans;
-font-weight: ;
 font-size: .9rem;
 color: #666f;
 }
@@ -1608,20 +1499,12 @@ font-size: 1.5rem;
 }
 .p-Home.Image58 {
 width: 100%;
-color: ;
-background-color: ;
-}
-.p-Home.Image59 {
-;
 }
 .p-Home.TextBox168 {
 font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 2rem;
 margin-bottom: 40px;
-}
-.p-Home.TextBox169 {
-;
 }
 .p-Home.TextBox170 {
 font-family: IBM Plex Sans;
@@ -1750,12 +1633,6 @@ font-size: .9rem;
 color: #666f;
 margin-top: 15px;
 }
-.p-Home.TextBox213 {
-;
-}
-.p-Home.Image95 {
-;
-}
 .p-Home.TextBox214 {
 font-family: IBM Plex Sans;
 font-weight: 600;
@@ -1765,7 +1642,6 @@ margin-left: 5px;
 }
 .p-Home.Image96 {
 width: 90%;
-height: ;
 border-color: #666f;
 }
 .p-Home.TextBox216 {
@@ -1857,14 +1733,12 @@ font-weight: 600;
 font-size: 1.1rem;
 padding-left: 10px;
 padding-bottom: 10px;
-margin-bottom: ;
 }
 .p-Home.Image117 {
 width: 8%;
 height: 50%;
 align-self: flex-start;
 margin-left: 5px;
-margin-top: ;
 padding-top: 3px;
 }
 .p-Home.Image119 {
@@ -1892,7 +1766,6 @@ width: 8%;
 height: 50%;
 align-self: flex-start;
 margin-left: 5px;
-margin-top: ;
 padding-top: 3px;
 }
 .p-Home.TextBox283 {
@@ -1901,7 +1774,6 @@ font-weight: 600;
 font-size: 1.1rem;
 padding-left: 10px;
 padding-bottom: 10px;
-margin-bottom: ;
 }
 .p-Home.Image121 {
 width: 100%;
@@ -1928,7 +1800,6 @@ width: 8%;
 height: 50%;
 align-self: flex-start;
 margin-left: 5px;
-margin-top: ;
 padding-top: 3px;
 }
 .p-Home.TextBox286 {
@@ -1937,5 +1808,4 @@ font-weight: 600;
 font-size: 1.1rem;
 padding-left: 10px;
 padding-bottom: 10px;
-margin-bottom: ;
 }
