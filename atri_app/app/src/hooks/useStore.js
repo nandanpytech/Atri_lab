@@ -49,6 +49,9 @@ const desktopModeProps = {
     "flexright": {
       "callbacks": {}
     },
+    "Flex432": {
+      "callbacks": {}
+    },
     "Flex6": {
       "callbacks": {}
     },
@@ -62,6 +65,12 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex11": {
+      "callbacks": {}
+    },
+    "Flex430": {
+      "callbacks": {}
+    },
+    "Flex433": {
       "callbacks": {}
     },
     "Flex8": {
@@ -229,6 +238,15 @@ const desktopModeProps = {
     "Flex150": {
       "callbacks": {}
     },
+    "Flex385": {
+      "callbacks": {}
+    },
+    "Flex427": {
+      "callbacks": {}
+    },
+    "Flex428": {
+      "callbacks": {}
+    },
     "Flex163": {
       "callbacks": {}
     },
@@ -320,6 +338,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex255": {
+      "callbacks": {}
+    },
+    "Flex384": {
       "callbacks": {}
     },
     "Flex264": {
@@ -481,6 +502,36 @@ const desktopModeProps = {
     "Flex381": {
       "callbacks": {}
     },
+    "Flex391": {
+      "callbacks": {}
+    },
+    "Flex392": {
+      "callbacks": {}
+    },
+    "Flex397": {
+      "callbacks": {}
+    },
+    "Flex434": {
+      "callbacks": {}
+    },
+    "Flex437": {
+      "callbacks": {}
+    },
+    "Flex436": {
+      "callbacks": {}
+    },
+    "Flex435": {
+      "callbacks": {}
+    },
+    "Flex440": {
+      "callbacks": {}
+    },
+    "Flex439": {
+      "callbacks": {}
+    },
+    "Flex438": {
+      "callbacks": {}
+    },
     "Button5": {
       "custom": {
         "text": "Submit"
@@ -566,6 +617,19 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image115": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox21": {
       "custom": {
         "text": "I design products"
@@ -602,9 +666,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button2": {
+    "TextBox281": {
       "custom": {
-        "text": "Book a call"
+        "text": "Book a call "
       },
       "callbacks": {
         "onClick": [
@@ -614,9 +678,25 @@ const desktopModeProps = {
         ]
       }
     },
+    "Flex431": {
+      "callbacks": {}
+    },
     "TextBox26": {
       "custom": {
         "text": "Download CV"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image116": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1069,9 +1149,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex86": {
-      "callbacks": {}
-    },
     "TextBox49": {
       "custom": {
         "text": "PROJECTS"
@@ -1110,7 +1187,7 @@ const desktopModeProps = {
     },
     "TextBox52": {
       "custom": {
-        "text": "April 16, 2021 6 mins"
+        "text": "April 16, 2021 *6 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1158,7 +1235,7 @@ const desktopModeProps = {
     },
     "TextBox80": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "Top 6 free website mockup tools 2021"
       },
       "callbacks": {
         "onClick": [
@@ -1170,7 +1247,7 @@ const desktopModeProps = {
     },
     "TextBox81": {
       "custom": {
-        "text": "April 16, 2021 6 mins"
+        "text": "April 16, 2021 *5 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1194,7 +1271,7 @@ const desktopModeProps = {
     },
     "TextBox83": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "Logo design trends to avoid in 2021"
       },
       "callbacks": {
         "onClick": [
@@ -1206,7 +1283,7 @@ const desktopModeProps = {
     },
     "TextBox84": {
       "custom": {
-        "text": "April 16, 2021 6 mins"
+        "text": "April 16, 2021  *7 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1230,7 +1307,7 @@ const desktopModeProps = {
     },
     "TextBox86": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "22 best UI design tools"
       },
       "callbacks": {
         "onClick": [
@@ -1242,7 +1319,7 @@ const desktopModeProps = {
     },
     "TextBox87": {
       "custom": {
-        "text": "April 16, 2021 6 mins"
+        "text": "April 16, 2021 *7 mins"
       },
       "callbacks": {
         "onClick": [
@@ -1266,7 +1343,7 @@ const desktopModeProps = {
     },
     "TextBox89": {
       "custom": {
-        "text": "Design tips for designers, that cover everything you need"
+        "text": "How to build rapport with your web design clients"
       },
       "callbacks": {
         "onClick": [
@@ -1278,7 +1355,50 @@ const desktopModeProps = {
     },
     "TextBox90": {
       "custom": {
-        "text": "April 16, 2021 6 mins"
+        "text": "April 16, 2021 *5 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList30": {
+      "custom": {
+        "type": "none",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Atri Labs"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox278": {
+      "custom": {
+        "text": ">"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox279": {
+      "custom": {
+        "text": "<"
       },
       "callbacks": {
         "onClick": [
@@ -1379,6 +1499,18 @@ const desktopModeProps = {
     "TextBox96": {
       "custom": {
         "text": "Education"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox231": {
+      "custom": {
+        "text": "📚"
       },
       "callbacks": {
         "onClick": [
@@ -1600,6 +1732,18 @@ const desktopModeProps = {
     "TextBox156": {
       "custom": {
         "text": "Work Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox230": {
+      "custom": {
+        "text": "💼"
       },
       "callbacks": {
         "onClick": [
@@ -2252,6 +2396,192 @@ const desktopModeProps = {
     "TextBox225": {
       "custom": {
         "text": "Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image99": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min-p-500.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox233": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox234": {
+      "custom": {
+        "text": "Soulful Rebrand"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox235": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image117": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image119": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/6077dcc78ec31466630c033f_image_processing20200129-19798-1k8ponz%202-min-p-500.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox284": {
+      "custom": {
+        "text": "Datadash Product design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox285": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image118": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox283": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image121": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/6077dcd635f7f176db9fef1e_image_processing20200129-19798-1k8ponz%203-min-p-500.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox287": {
+      "custom": {
+        "text": "Maize Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox288": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image120": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox286": {
+      "custom": {
+        "text": "View Project"
       },
       "callbacks": {
         "onClick": [
