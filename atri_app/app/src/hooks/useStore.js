@@ -112,16 +112,34 @@ const desktopModeProps = {
     "Flex48": {
       "callbacks": {}
     },
+    "Flex494": {
+      "callbacks": {}
+    },
+    "Flex495": {
+      "callbacks": {}
+    },
+    "Flex496": {
+      "callbacks": {}
+    },
     "Flex75": {
       "callbacks": {}
     },
     "Flex74": {
       "callbacks": {}
     },
-    "Flex72": {
+    "Flex73": {
       "callbacks": {}
     },
-    "Flex73": {
+    "Flex513": {
+      "callbacks": {}
+    },
+    "Flex510": {
+      "callbacks": {}
+    },
+    "Flex511": {
+      "callbacks": {}
+    },
+    "Flex512": {
       "callbacks": {}
     },
     "Flex79": {
@@ -130,10 +148,19 @@ const desktopModeProps = {
     "Flex78": {
       "callbacks": {}
     },
-    "Flex76": {
+    "Flex77": {
       "callbacks": {}
     },
-    "Flex77": {
+    "Flex509": {
+      "callbacks": {}
+    },
+    "Flex506": {
+      "callbacks": {}
+    },
+    "Flex507": {
+      "callbacks": {}
+    },
+    "Flex508": {
       "callbacks": {}
     },
     "Flex80": {
@@ -173,6 +200,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex92": {
+      "callbacks": {}
+    },
+    "Flex444": {
       "callbacks": {}
     },
     "Flex89": {
@@ -238,9 +268,6 @@ const desktopModeProps = {
     "Flex150": {
       "callbacks": {}
     },
-    "Flex385": {
-      "callbacks": {}
-    },
     "Flex427": {
       "callbacks": {}
     },
@@ -283,40 +310,49 @@ const desktopModeProps = {
     "Flex176": {
       "callbacks": {}
     },
-    "Flex177": {
+    "Flex467": {
       "callbacks": {}
     },
-    "Flex178": {
+    "Flex465": {
       "callbacks": {}
     },
-    "Flex179": {
+    "Flex463": {
       "callbacks": {}
     },
-    "Flex182": {
+    "Flex466": {
       "callbacks": {}
     },
-    "Flex214": {
+    "Flex464": {
       "callbacks": {}
     },
-    "Flex212": {
+    "Flex472": {
       "callbacks": {}
     },
-    "Flex211": {
+    "Flex470": {
       "callbacks": {}
     },
-    "Flex213": {
+    "Flex468": {
       "callbacks": {}
     },
-    "Flex218": {
+    "Flex471": {
       "callbacks": {}
     },
-    "Flex216": {
+    "Flex469": {
       "callbacks": {}
     },
-    "Flex215": {
+    "Flex477": {
       "callbacks": {}
     },
-    "Flex217": {
+    "Flex475": {
+      "callbacks": {}
+    },
+    "Flex473": {
+      "callbacks": {}
+    },
+    "Flex476": {
+      "callbacks": {}
+    },
+    "Flex474": {
       "callbacks": {}
     },
     "Flex256": {
@@ -334,6 +370,9 @@ const desktopModeProps = {
     "Flex245": {
       "callbacks": {}
     },
+    "Flex478": {
+      "callbacks": {}
+    },
     "Flex258": {
       "callbacks": {}
     },
@@ -343,34 +382,40 @@ const desktopModeProps = {
     "Flex384": {
       "callbacks": {}
     },
-    "Flex264": {
+    "Flex484": {
       "callbacks": {}
     },
-    "Flex262": {
+    "Flex482": {
       "callbacks": {}
     },
-    "Flex263": {
+    "Flex483": {
       "callbacks": {}
     },
-    "Flex261": {
+    "Flex480": {
       "callbacks": {}
     },
-    "Flex260": {
+    "Flex481": {
       "callbacks": {}
     },
-    "Flex269": {
+    "Flex479": {
       "callbacks": {}
     },
-    "Flex267": {
+    "Flex490": {
       "callbacks": {}
     },
-    "Flex268": {
+    "Flex488": {
       "callbacks": {}
     },
-    "Flex266": {
+    "Flex489": {
       "callbacks": {}
     },
-    "Flex265": {
+    "Flex486": {
+      "callbacks": {}
+    },
+    "Flex487": {
+      "callbacks": {}
+    },
+    "Flex485": {
       "callbacks": {}
     },
     "Flex272": {
@@ -388,10 +433,10 @@ const desktopModeProps = {
     "Flex276": {
       "callbacks": {}
     },
-    "Flex277": {
+    "Flex278": {
       "callbacks": {}
     },
-    "Flex278": {
+    "Flex277": {
       "callbacks": {}
     },
     "Flex279": {
@@ -531,18 +576,6 @@ const desktopModeProps = {
     },
     "Flex438": {
       "callbacks": {}
-    },
-    "Button5": {
-      "custom": {
-        "text": "Submit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
     },
     "Image1": {
       "custom": {
@@ -832,44 +865,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "UnorderedList20": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Web and Mobile App Design"
-          }
-        ]
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList21": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Front-end Development"
-          }
-        ]
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox33": {
       "custom": {
         "text": "What I can do for you"
@@ -894,16 +889,72 @@ const desktopModeProps = {
         ]
       }
     },
-    "UnorderedList19": {
+    "TextBox320": {
       "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
+        "text": " Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
           {
-            "title": " Design Strategy"
+            "sendEventData": true
           }
         ]
+      }
+    },
+    "Image161": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox318": {
+      "custom": {
+        "text": " Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image159": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox319": {
+      "custom": {
+        "text": "Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image160": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -917,63 +968,6 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/5fef58435ceaed068dde60ca_Group%2016.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList23": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Efficient and maintainable"
-          }
-        ]
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList24": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Device and user friendly"
-          }
-        ]
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList22": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": " Clean and functional"
-          }
-        ]
       },
       "callbacks": {
         "onClick": [
@@ -1007,67 +1001,85 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image171": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox330": {
+      "custom": {
+        "text": "Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image172": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox331": {
+      "custom": {
+        "text": " Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image173": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox332": {
+      "custom": {
+        "text": " Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "Image27": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/5fef5843b6409375f7c23f2b_Group%2017.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList26": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Figma"
-          }
-        ]
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList27": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": " Webflow"
-          }
-        ]
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList25": {
-      "custom": {
-        "type": "disc",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Sketch"
-          }
-        ]
       },
       "callbacks": {
         "onClick": [
@@ -1092,6 +1104,81 @@ const desktopModeProps = {
     "TextBox44": {
       "custom": {
         "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image168": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox327": {
+      "custom": {
+        "text": "Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image169": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox328": {
+      "custom": {
+        "text": " Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image170": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox329": {
+      "custom": {
+        "text": " Front-end Development"
       },
       "callbacks": {
         "onClick": [
@@ -1151,7 +1238,7 @@ const desktopModeProps = {
     },
     "TextBox49": {
       "custom": {
-        "text": "PROJECTS"
+        "text": "BLOGS"
       },
       "callbacks": {
         "onClick": [
@@ -1176,6 +1263,19 @@ const desktopModeProps = {
     "TextBox51": {
       "custom": {
         "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image125": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-20-32.png"
       },
       "callbacks": {
         "onClick": [
@@ -1221,9 +1321,35 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image126": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-20-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox79": {
       "custom": {
         "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image128": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-20-32.png"
       },
       "callbacks": {
         "onClick": [
@@ -1269,6 +1395,19 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image129": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-20-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox83": {
       "custom": {
         "text": "Logo design trends to avoid in 2021"
@@ -1296,6 +1435,19 @@ const desktopModeProps = {
     "TextBox85": {
       "custom": {
         "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image133": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-20-32.png"
       },
       "callbacks": {
         "onClick": [
@@ -1341,6 +1493,19 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image127": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/arrow-20-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox89": {
       "custom": {
         "text": "How to build rapport with your web design clients"
@@ -1356,25 +1521,6 @@ const desktopModeProps = {
     "TextBox90": {
       "custom": {
         "text": "April 16, 2021 *5 mins"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "UnorderedList30": {
-      "custom": {
-        "type": "none",
-        "titleColor": "#000000d9",
-        "descriptionColor": "#00000073",
-        "items": [
-          {
-            "title": "Atri Labs"
-          }
-        ]
       },
       "callbacks": {
         "onClick": [
@@ -1520,19 +1666,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox98": {
-      "custom": {
-        "text": "Stanford University"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox99": {
+    "TextBox304": {
       "custom": {
         "text": "MSc (Human Computer Interaction)"
       },
@@ -1544,20 +1678,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image35": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/dot-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox102": {
+    "TextBox303": {
       "custom": {
         "text": "2013-2015"
       },
@@ -1569,31 +1690,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox125": {
-      "custom": {
-        "text": "UX Training Bootcamp"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox124": {
-      "custom": {
-        "text": "2013-2014"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image43": {
+    "Image144": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/dot-svgrepo-com.svg"
@@ -1606,9 +1703,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox126": {
+    "TextBox305": {
       "custom": {
-        "text": "MIT Summer School"
+        "text": "Stanford University"
       },
       "callbacks": {
         "onClick": [
@@ -1618,7 +1715,20 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox128": {
+    "Image145": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox307": {
       "custom": {
         "text": "BSc in Software Engineering"
       },
@@ -1630,7 +1740,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox127": {
+    "TextBox306": {
       "custom": {
         "text": "2009-2012"
       },
@@ -1642,7 +1752,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image44": {
+    "Image146": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/dot-svgrepo-com.svg"
@@ -1655,7 +1765,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox129": {
+    "TextBox308": {
       "custom": {
         "text": "California State University"
       },
@@ -1667,9 +1777,72 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox155": {
+    "Image147": {
       "custom": {
-        "text": "SpaceFleet"
+        "alt": "No preview available",
+        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox310": {
+      "custom": {
+        "text": "UX Training Bootcamp"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox309": {
+      "custom": {
+        "text": "2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image148": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox311": {
+      "custom": {
+        "text": "MIT Summer School"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image149": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1707,6 +1880,31 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/dot-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox155": {
+      "custom": {
+        "text": "SpaceFleet"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image151": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1766,7 +1964,20 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox159": {
+    "Image153": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox313": {
       "custom": {
         "text": "MusicMash"
       },
@@ -1778,9 +1989,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox158": {
+    "TextBox314": {
       "custom": {
-        "text": "Information Architect"
+        "text": " Information Architect"
       },
       "callbacks": {
         "onClick": [
@@ -1790,7 +2001,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image54": {
+    "Image152": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/dot-svgrepo-com.svg"
@@ -1803,9 +2014,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox157": {
+    "TextBox312": {
       "custom": {
-        "text": "April 2016 - May 2017"
+        "text": "April 2019 - May 2017"
       },
       "callbacks": {
         "onClick": [
@@ -1828,7 +2039,20 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox162": {
+    "Image156": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5fef5843523345463e5a1851_arrow-right-up-line%206.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox316": {
       "custom": {
         "text": "Kingdom"
       },
@@ -1840,7 +2064,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox161": {
+    "TextBox317": {
       "custom": {
         "text": "UI Designer"
       },
@@ -1852,7 +2076,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image56": {
+    "Image155": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/dot-svgrepo-com.svg"
@@ -1865,9 +2089,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox160": {
+    "TextBox315": {
       "custom": {
-        "text": "April 2016 - May 2017  "
+        "text": "April 2019 - May 2017"
       },
       "callbacks": {
         "onClick": [
@@ -1914,10 +2138,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image59": {
+    "TextBox168": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/5ff6a53da27356854576b920_Group%2058.svg"
+        "text": "Jade helped us build a software so intuitive that it didn't need a walkthrough. He solved complex problems with brilliant design."
       },
       "callbacks": {
         "onClick": [
@@ -1927,9 +2150,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox168": {
+    "Image59": {
       "custom": {
-        "text": "Jade helped us build a software so intuitive that it didn't need a walkthrough. He solved complex problems with brilliant design."
+        "alt": "No preview available",
+        "src": "/app-assets/5ff6a53da27356854576b920_Group%2058.svg"
       },
       "callbacks": {
         "onClick": [

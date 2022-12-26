@@ -1,7 +1,7 @@
 [
   {
     "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
-    "id": "f0d92b34-878b-4044-bafc-f34890a8a76b",
+    "id": "8a735c3c-8a22-4344-82a6-fd1d5bb1aa37",
     "meta": {},
     "state": {
       "parent": {
@@ -10,23 +10,20 @@
       },
       "property": {
         "styles": {
-          "width": "8%",
-          "height": "50%",
-          "alignSelf": "center",
-          "marginLeft": "5px",
-          "marginTop": "10px"
+          "width": "2%",
+          "marginRight": "5px"
         }
       }
     }
   },
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
-    "refId": "2aa77039-82ae-4b53-8b1e-c6f42a839fbf",
-    "childId": "f0d92b34-878b-4044-bafc-f34890a8a76b"
+    "refId": "e1eab6bf-fb74-42e8-88eb-a5e24417010f",
+    "childId": "8a735c3c-8a22-4344-82a6-fd1d5bb1aa37"
   },
   {
     "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
-    "id": "1daf6b9c-d0b5-40d3-8c9f-431346d657c4",
+    "id": "066cb8ec-4da3-43b1-8c80-c9a0f8ec22cd",
     "meta": {},
     "state": {
       "parent": {
@@ -36,18 +33,18 @@
       "property": {
         "custom": {
           "alt": "No preview available",
-          "src": "/app-assets/right-arrow.png"
+          "src": "/app-assets/dot-svgrepo-com.svg"
         }
       }
     }
   },
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
-    "refId": "2aa77039-82ae-4b53-8b1e-c6f42a839fbf",
-    "childId": "1daf6b9c-d0b5-40d3-8c9f-431346d657c4"
+    "refId": "e1eab6bf-fb74-42e8-88eb-a5e24417010f",
+    "childId": "066cb8ec-4da3-43b1-8c80-c9a0f8ec22cd"
   },
   {
-    "id": "b9c51eaa-3b3b-4604-b5d3-05ffa42c8548",
+    "id": "842de2de-0002-4a72-9674-b2c67df3d12f",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -68,11 +65,11 @@
   },
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
-    "refId": "2aa77039-82ae-4b53-8b1e-c6f42a839fbf",
-    "childId": "b9c51eaa-3b3b-4604-b5d3-05ffa42c8548"
+    "refId": "e1eab6bf-fb74-42e8-88eb-a5e24417010f",
+    "childId": "842de2de-0002-4a72-9674-b2c67df3d12f"
   },
   {
-    "id": "2aa77039-82ae-4b53-8b1e-c6f42a839fbf",
+    "id": "e1eab6bf-fb74-42e8-88eb-a5e24417010f",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
     "meta": {
       "pkg": "@atrilabs/react-component-manifests",
@@ -84,7 +81,7 @@
         "id": "templateRoot",
         "index": 0
       },
-      "alias": "Image116"
+      "alias": "Image159"
     }
   }
 ]
